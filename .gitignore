@@ -1,6 +1,5 @@
 # Build
 build/
-filetree
 
 # Go specific
 *.exe
